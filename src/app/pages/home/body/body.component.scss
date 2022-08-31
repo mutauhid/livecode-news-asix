@@ -1,0 +1,14 @@
+.video{
+    margin: 100px auto;
+}
+
+i {
+    font-size: 60px;
+}
+
+@media only screen and (max-width: 750px) {
+    .row-app {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
